@@ -1,0 +1,14 @@
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\bin\Debug\net8.0\03.RoundingNumbers.exe
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\bin\Debug\net8.0\03.RoundingNumbers.deps.json
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\bin\Debug\net8.0\03.RoundingNumbers.runtimeconfig.json
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\bin\Debug\net8.0\03.RoundingNumbers.dll
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\bin\Debug\net8.0\03.RoundingNumbers.pdb
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.AssemblyInfo.cs
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.dll
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\refint\03.RoundingNumbers.dll
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.pdb
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\03.RoundingNumbers.genruntimeconfig.cache
+D:\Fundamentals\11.Arrays.Lab\03.RoundingNumbers\obj\Debug\net8.0\ref\03.RoundingNumbers.dll

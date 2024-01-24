@@ -1,0 +1,14 @@
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\bin\Debug\net8.0\04.ReverseArrayOfStrings.exe
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\bin\Debug\net8.0\04.ReverseArrayOfStrings.deps.json
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\bin\Debug\net8.0\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\bin\Debug\net8.0\04.ReverseArrayOfStrings.dll
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\bin\Debug\net8.0\04.ReverseArrayOfStrings.pdb
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.dll
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\refint\04.ReverseArrayOfStrings.dll
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.pdb
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+D:\Fundamentals\11.Arrays.Lab\04.ReverseArrayOfStrings\obj\Debug\net8.0\ref\04.ReverseArrayOfStrings.dll

@@ -1,0 +1,14 @@
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\bin\Debug\net8.0\06.EvenAndOddSubtraction.exe
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\bin\Debug\net8.0\06.EvenAndOddSubtraction.deps.json
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\bin\Debug\net8.0\06.EvenAndOddSubtraction.runtimeconfig.json
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\bin\Debug\net8.0\06.EvenAndOddSubtraction.dll
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\bin\Debug\net8.0\06.EvenAndOddSubtraction.pdb
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.AssemblyInfo.cs
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.dll
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\refint\06.EvenAndOddSubtraction.dll
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.pdb
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\06.EvenAndOddSubtraction.genruntimeconfig.cache
+D:\Fundamentals\11.Arrays.Lab\06.EvenAndOddSubtraction\obj\Debug\net8.0\ref\06.EvenAndOddSubtraction.dll
