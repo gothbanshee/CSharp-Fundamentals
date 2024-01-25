@@ -1,0 +1,14 @@
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\bin\Debug\net8.0\05.MonthPrinter.exe
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\bin\Debug\net8.0\05.MonthPrinter.deps.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\bin\Debug\net8.0\05.MonthPrinter.runtimeconfig.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\bin\Debug\net8.0\05.MonthPrinter.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\bin\Debug\net8.0\05.MonthPrinter.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.AssemblyInfo.cs
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\refint\05.MonthPrinter.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\05.MonthPrinter.genruntimeconfig.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\05.MonthPrinter\obj\Debug\net8.0\ref\05.MonthPrinter.dll

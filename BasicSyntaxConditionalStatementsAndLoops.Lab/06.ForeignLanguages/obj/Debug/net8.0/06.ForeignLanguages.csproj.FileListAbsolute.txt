@@ -1,0 +1,14 @@
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\bin\Debug\net8.0\06.ForeignLanguages.exe
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\bin\Debug\net8.0\06.ForeignLanguages.deps.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\bin\Debug\net8.0\06.ForeignLanguages.runtimeconfig.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\bin\Debug\net8.0\06.ForeignLanguages.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\bin\Debug\net8.0\06.ForeignLanguages.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.AssemblyInfoInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.AssemblyInfo.cs
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\refint\06.ForeignLanguages.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\06.ForeignLanguages.genruntimeconfig.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\06.ForeignLanguages\obj\Debug\net8.0\ref\06.ForeignLanguages.dll

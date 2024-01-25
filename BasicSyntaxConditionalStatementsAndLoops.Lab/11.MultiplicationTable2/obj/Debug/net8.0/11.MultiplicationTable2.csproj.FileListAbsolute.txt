@@ -1,0 +1,14 @@
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\bin\Debug\net8.0\11.MultiplicationTable2.exe
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\bin\Debug\net8.0\11.MultiplicationTable2.deps.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\bin\Debug\net8.0\11.MultiplicationTable2.runtimeconfig.json
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\bin\Debug\net8.0\11.MultiplicationTable2.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\bin\Debug\net8.0\11.MultiplicationTable2.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.AssemblyInfoInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.AssemblyInfo.cs
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.csproj.CoreCompileInputs.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\refint\11.MultiplicationTable2.dll
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.pdb
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\11.MultiplicationTable2.genruntimeconfig.cache
+D:\Fundamentals\BasicSyntaxConditionalStatementsAndLoops.Lab\11.MultiplicationTable2\obj\Debug\net8.0\ref\11.MultiplicationTable2.dll
