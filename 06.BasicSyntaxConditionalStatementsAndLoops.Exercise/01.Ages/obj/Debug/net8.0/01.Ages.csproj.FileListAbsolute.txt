@@ -1,0 +1,14 @@
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\bin\Debug\net8.0\01.Ages.exe
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\bin\Debug\net8.0\01.Ages.deps.json
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\bin\Debug\net8.0\01.Ages.runtimeconfig.json
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\bin\Debug\net8.0\01.Ages.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\bin\Debug\net8.0\01.Ages.pdb
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.AssemblyInfoInputs.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.AssemblyInfo.cs
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.csproj.CoreCompileInputs.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\refint\01.Ages.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.pdb
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\01.Ages.genruntimeconfig.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\01.Ages\obj\Debug\net8.0\ref\01.Ages.dll

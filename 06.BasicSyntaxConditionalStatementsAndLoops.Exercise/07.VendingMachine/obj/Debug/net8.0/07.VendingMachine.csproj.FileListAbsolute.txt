@@ -1,0 +1,14 @@
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.exe
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.deps.json
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.runtimeconfig.json
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\bin\Debug\net8.0\07.VendingMachine.pdb
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.AssemblyInfoInputs.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.AssemblyInfo.cs
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\refint\07.VendingMachine.dll
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.pdb
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\07.VendingMachine.genruntimeconfig.cache
+D:\Fundamentals\06.BasicSyntaxConditionalStatementsAndLoops.Exercise\07.VendingMachine\obj\Debug\net8.0\ref\07.VendingMachine.dll
