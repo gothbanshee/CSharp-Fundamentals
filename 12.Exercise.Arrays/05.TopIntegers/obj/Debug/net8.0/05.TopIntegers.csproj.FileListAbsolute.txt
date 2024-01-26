@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.AssemblyInfo.cs
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.sourcelink.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.exe
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.deps.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.runtimeconfig.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\bin\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\refint\05.TopIntegers.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.pdb
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\05.TopIntegers.genruntimeconfig.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\05.TopIntegers\obj\Debug\net8.0\ref\05.TopIntegers.dll

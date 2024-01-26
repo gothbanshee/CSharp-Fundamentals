@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.exe
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.deps.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\bin\Debug\net8.0\10.LadyBugs.pdb
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.sourcelink.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\refint\10.LadyBugs.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.pdb
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\10.LadyBugs.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\10.LadyBugs\obj\Debug\net8.0\ref\10.LadyBugs.dll

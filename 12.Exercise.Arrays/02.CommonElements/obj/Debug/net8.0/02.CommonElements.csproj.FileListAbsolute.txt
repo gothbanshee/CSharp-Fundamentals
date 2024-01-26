@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.exe
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.deps.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.runtimeconfig.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\bin\Debug\net8.0\02.CommonElements.pdb
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.AssemblyInfo.cs
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.sourcelink.json
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\refint\02.CommonElements.dll
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.pdb
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\02.CommonElements.genruntimeconfig.cache
+C:\Users\User\Desktop\Нова папка\CSharp-Fundamentals\12.Exercise.Arrays\02.CommonElements\obj\Debug\net8.0\ref\02.CommonElements.dll

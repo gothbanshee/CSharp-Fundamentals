@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.exe
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.deps.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\bin\Debug\net8.0\06.EqualSum.pdb
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.sourcelink.json
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\refint\06.EqualSum.dll
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.pdb
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\06.EqualSum.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\12.Exercise.Arrays\06.EqualSum\obj\Debug\net8.0\ref\06.EqualSum.dll
