@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\bin\Debug\net8.0\03.RecursiveFibonacci.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\bin\Debug\net8.0\03.RecursiveFibonacci.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\bin\Debug\net8.0\03.RecursiveFibonacci.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\bin\Debug\net8.0\03.RecursiveFibonacci.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\bin\Debug\net8.0\03.RecursiveFibonacci.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\refint\03.RecursiveFibonacci.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\03.RecursiveFibonacci.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Arrays\03.RecursiveFibonacci\obj\Debug\net8.0\ref\03.RecursiveFibonacci.dll
