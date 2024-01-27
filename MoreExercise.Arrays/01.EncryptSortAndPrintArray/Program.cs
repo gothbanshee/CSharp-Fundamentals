@@ -26,7 +26,7 @@ namespace _01.EncryptSortAndPrintArray
 
                 for (int j = 0; j < names[i].Length; j++)
                 {
-                    if (names[i][j] == 'a' || names[i][j] == 'o' || names[i][j] == 'u' || names[i][j] == 'e' || names[i][j] == 'i')
+                    if (names[i][j] == 'a' || names[i][j] == 'o' || names[i][j] == 'u' || names[i][j] == 'e' || names[i][j] == 'i' || names[i][j] == 'A' || names[i][j] == 'O' || names[i][j] == 'U' || names[i][j] == 'E' || names[i][j] == 'I')
                     {
                         sum += names[i][j] * names[i].Length;
                     }
