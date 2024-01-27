@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.exe
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.dll
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\bin\Debug\net8.0\02.ArrayModifier.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.dll
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\refint\02.ArrayModifier.dll
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\02.ArrayModifier.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.02\02.ArrayModifier\obj\Debug\net8.0\ref\02.ArrayModifier.dll
