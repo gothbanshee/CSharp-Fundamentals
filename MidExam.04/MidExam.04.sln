@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34518.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GuineaPig", "01.GuineaPig\01.GuineaPig.csproj", "{F8C96441-F1E1-44F2-A5CE-1B85B411C05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HeartDelivery", "02.ShoppingList\03.HeartDelivery.csproj", "{BA84237B-5965-4727-91AA-CFB8D9B85554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C96441-F1E1-44F2-A5CE-1B85B411C05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C96441-F1E1-44F2-A5CE-1B85B411C05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C96441-F1E1-44F2-A5CE-1B85B411C05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C96441-F1E1-44F2-A5CE-1B85B411C05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA84237B-5965-4727-91AA-CFB8D9B85554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA84237B-5965-4727-91AA-CFB8D9B85554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA84237B-5965-4727-91AA-CFB8D9B85554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA84237B-5965-4727-91AA-CFB8D9B85554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F82DE80-DCC2-4B7C-A84B-13F69E91DF0F}
+	EndGlobalSection
+EndGlobal

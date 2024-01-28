@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\bin\Debug\net8.0\02.ShootForTheWin.exe
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\bin\Debug\net8.0\02.ShootForTheWin.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\bin\Debug\net8.0\02.ShootForTheWin.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\bin\Debug\net8.0\02.ShootForTheWin.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\bin\Debug\net8.0\02.ShootForTheWin.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\refint\02.ShootForTheWin.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\02.ShootForTheWin.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\02.ShootForTheWin\obj\Debug\net8.0\ref\02.ShootForTheWin.dll
