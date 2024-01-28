@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Funds\\CSharp-Fundamentals\\MidExam.01\\03.MemoryGame\\03.MemoryGame.csproj": {}
+    "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\03.Numbers.csproj": {}
   },
   "projects": {
-    "D:\\Funds\\CSharp-Fundamentals\\MidExam.01\\03.MemoryGame\\03.MemoryGame.csproj": {
+    "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\03.Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\MidExam.01\\03.MemoryGame\\03.MemoryGame.csproj",
-        "projectName": "03.MemoryGame",
-        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.01\\03.MemoryGame\\03.MemoryGame.csproj",
+        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\03.Numbers.csproj",
+        "projectName": "03.Numbers",
+        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\03.Numbers.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.01\\03.MemoryGame\\obj\\",
+        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

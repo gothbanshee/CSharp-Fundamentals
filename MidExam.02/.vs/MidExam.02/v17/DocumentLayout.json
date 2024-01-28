@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A992F0F-8951-4A1F-BCD8-057BDE82EE4D}|03.Numbers\\03.Numbers.csproj|d:\\funds\\csharp-fundamentals\\midexam.02\\03.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A992F0F-8951-4A1F-BCD8-057BDE82EE4D}|03.Numbers\\03.Numbers.csproj|solutionrelative:03.numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Numbers\\Program.cs",
+              "ToolTip": "D:\\Funds\\CSharp-Fundamentals\\MidExam.02\\03.Numbers\\Program.cs",
+              "RelativeToolTip": "03.Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T01:23:35.15Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
