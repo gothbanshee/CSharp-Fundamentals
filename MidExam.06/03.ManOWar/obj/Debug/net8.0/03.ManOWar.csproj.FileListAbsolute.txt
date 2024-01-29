@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\bin\Debug\net8.0\03.ManOWar.exe
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\bin\Debug\net8.0\03.ManOWar.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\bin\Debug\net8.0\03.ManOWar.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\bin\Debug\net8.0\03.ManOWar.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\bin\Debug\net8.0\03.ManOWar.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\refint\03.ManOWar.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\03.ManOWar.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\03.ManOWar\obj\Debug\net8.0\ref\03.ManOWar.dll
