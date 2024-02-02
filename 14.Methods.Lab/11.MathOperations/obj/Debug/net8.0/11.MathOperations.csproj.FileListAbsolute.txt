@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\bin\Debug\net8.0\11.MathOperations.exe
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\bin\Debug\net8.0\11.MathOperations.deps.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\bin\Debug\net8.0\11.MathOperations.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\bin\Debug\net8.0\11.MathOperations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\bin\Debug\net8.0\11.MathOperations.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.sourcelink.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\refint\11.MathOperations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\11.MathOperations.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\11.MathOperations\obj\Debug\net8.0\ref\11.MathOperations.dll

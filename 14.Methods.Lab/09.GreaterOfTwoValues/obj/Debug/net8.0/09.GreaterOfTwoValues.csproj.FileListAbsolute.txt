@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.exe
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.deps.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\bin\Debug\net8.0\09.GreaterOfTwoValues.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.sourcelink.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\refint\09.GreaterOfTwoValues.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\09.GreaterOfTwoValues.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\09.GreaterOfTwoValues\obj\Debug\net8.0\ref\09.GreaterOfTwoValues.dll

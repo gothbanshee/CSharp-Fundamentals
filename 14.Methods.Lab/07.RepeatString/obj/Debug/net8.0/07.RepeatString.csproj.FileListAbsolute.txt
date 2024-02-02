@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\bin\Debug\net8.0\07.RepeatString.exe
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\bin\Debug\net8.0\07.RepeatString.deps.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\bin\Debug\net8.0\07.RepeatString.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\bin\Debug\net8.0\07.RepeatString.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\bin\Debug\net8.0\07.RepeatString.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.sourcelink.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\refint\07.RepeatString.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\07.RepeatString.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\07.RepeatString\obj\Debug\net8.0\ref\07.RepeatString.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\bin\Debug\net8.0\03.Calculations.exe
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\bin\Debug\net8.0\03.Calculations.deps.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\bin\Debug\net8.0\03.Calculations.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\bin\Debug\net8.0\03.Calculations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\bin\Debug\net8.0\03.Calculations.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.sourcelink.json
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\refint\03.Calculations.dll
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.pdb
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\03.Calculations.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\14.Lab.Methods\03.Calculations\obj\Debug\net8.0\ref\03.Calculations.dll

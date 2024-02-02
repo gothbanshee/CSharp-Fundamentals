@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.sourcelink.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\bin\Debug\net8.0\04.TripleSum.exe
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\bin\Debug\net8.0\04.TripleSum.deps.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\bin\Debug\net8.0\04.TripleSum.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\bin\Debug\net8.0\04.TripleSum.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\bin\Debug\net8.0\04.TripleSum.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\refint\04.TripleSum.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\04.TripleSum.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\04.TripleSum\obj\Debug\net8.0\ref\04.TripleSum.dll

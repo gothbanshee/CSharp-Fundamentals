@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\bin\Debug\net8.0\09.ExtractMiddleElements.exe
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\bin\Debug\net8.0\09.ExtractMiddleElements.deps.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\bin\Debug\net8.0\09.ExtractMiddleElements.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\bin\Debug\net8.0\09.ExtractMiddleElements.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\bin\Debug\net8.0\09.ExtractMiddleElements.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.sourcelink.json
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\refint\09.ExtractMiddleElements.dll
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\09.ExtractMiddleElements.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\Archive\Lab.Arrays\09.ExtractMiddleElements\obj\Debug\net8.0\ref\09.ExtractMiddleElements.dll
