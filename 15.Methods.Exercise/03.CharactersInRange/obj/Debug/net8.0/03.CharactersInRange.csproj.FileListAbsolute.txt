@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\bin\Debug\net8.0\03.CharactersInRange.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\bin\Debug\net8.0\03.CharactersInRange.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\bin\Debug\net8.0\03.CharactersInRange.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\bin\Debug\net8.0\03.CharactersInRange.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\bin\Debug\net8.0\03.CharactersInRange.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\refint\03.CharactersInRange.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\03.CharactersInRange.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\03.CharactersInRange\obj\Debug\net8.0\ref\03.CharactersInRange.dll

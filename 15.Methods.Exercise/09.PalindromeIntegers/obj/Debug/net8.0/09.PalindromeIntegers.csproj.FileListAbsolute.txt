@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\bin\Debug\net8.0\09.PalindromeIntegers.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\bin\Debug\net8.0\09.PalindromeIntegers.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\bin\Debug\net8.0\09.PalindromeIntegers.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\bin\Debug\net8.0\09.PalindromeIntegers.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\bin\Debug\net8.0\09.PalindromeIntegers.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\refint\09.PalindromeIntegers.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\09.PalindromeIntegers.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\09.PalindromeIntegers\obj\Debug\net8.0\ref\09.PalindromeIntegers.dll

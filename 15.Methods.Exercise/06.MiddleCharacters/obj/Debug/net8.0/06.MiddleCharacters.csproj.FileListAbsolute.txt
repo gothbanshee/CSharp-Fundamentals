@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\bin\Debug\net8.0\06.MiddleCharacters.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\refint\06.MiddleCharacters.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\06.MiddleCharacters.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\06.MiddleCharacters\obj\Debug\net8.0\ref\06.MiddleCharacters.dll

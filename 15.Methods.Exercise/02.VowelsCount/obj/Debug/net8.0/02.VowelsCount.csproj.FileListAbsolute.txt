@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\bin\Debug\net8.0\02.VowelsCount.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\refint\02.VowelsCount.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\02.VowelsCount.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\02.VowelsCount\obj\Debug\net8.0\ref\02.VowelsCount.dll

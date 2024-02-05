@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\bin\Debug\net8.0\07.NxNMatrix.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\refint\07.NxNMatrix.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\07.NxNMatrix.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\07.NxNMatrix\obj\Debug\net8.0\ref\07.NxNMatrix.dll

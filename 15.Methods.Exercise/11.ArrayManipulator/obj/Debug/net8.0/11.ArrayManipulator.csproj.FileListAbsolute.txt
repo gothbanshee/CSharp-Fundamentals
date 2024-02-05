@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\bin\Debug\net8.0\11.ArrayManipulator.exe
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\bin\Debug\net8.0\11.ArrayManipulator.deps.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\bin\Debug\net8.0\11.ArrayManipulator.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\bin\Debug\net8.0\11.ArrayManipulator.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\bin\Debug\net8.0\11.ArrayManipulator.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.sourcelink.json
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\refint\11.ArrayManipulator.dll
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.pdb
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\11.ArrayManipulator.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\15.Methods.Exercise\11.ArrayManipulator\obj\Debug\net8.0\ref\11.ArrayManipulator.dll
