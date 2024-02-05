@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\bin\Debug\net8.0\01.DataTypes.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\bin\Debug\net8.0\01.DataTypes.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\bin\Debug\net8.0\01.DataTypes.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\bin\Debug\net8.0\01.DataTypes.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\bin\Debug\net8.0\01.DataTypes.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\refint\01.DataTypes.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\01.DataTypes.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\01.DataTypes\obj\Debug\net8.0\ref\01.DataTypes.dll

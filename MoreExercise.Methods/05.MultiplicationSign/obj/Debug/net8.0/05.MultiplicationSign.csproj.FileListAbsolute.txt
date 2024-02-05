@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\bin\Debug\net8.0\05.MultiplicationSign.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\refint\05.MultiplicationSign.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\05.MultiplicationSign.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\05.MultiplicationSign\obj\Debug\net8.0\ref\05.MultiplicationSign.dll

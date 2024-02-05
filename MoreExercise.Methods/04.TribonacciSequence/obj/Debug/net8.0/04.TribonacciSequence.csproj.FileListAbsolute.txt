@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\bin\Debug\net8.0\04.TribonacciSequence.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\bin\Debug\net8.0\04.TribonacciSequence.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\bin\Debug\net8.0\04.TribonacciSequence.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\bin\Debug\net8.0\04.TribonacciSequence.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\bin\Debug\net8.0\04.TribonacciSequence.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\refint\04.TribonacciSequence.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\04.TribonacciSequence.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\04.TribonacciSequence\obj\Debug\net8.0\ref\04.TribonacciSequence.dll

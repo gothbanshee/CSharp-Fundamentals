@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\bin\Debug\net8.0\03.LongerLine.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\bin\Debug\net8.0\03.LongerLine.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\bin\Debug\net8.0\03.LongerLine.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\bin\Debug\net8.0\03.LongerLine.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\bin\Debug\net8.0\03.LongerLine.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\refint\03.LongerLine.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\03.LongerLine.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\03.LongerLine\obj\Debug\net8.0\ref\03.LongerLine.dll

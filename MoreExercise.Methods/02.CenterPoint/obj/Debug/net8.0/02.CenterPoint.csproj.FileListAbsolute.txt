@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\bin\Debug\net8.0\02.CenterPoint.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\refint\02.CenterPoint.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\02.CenterPoint.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Methods\02.CenterPoint\obj\Debug\net8.0\ref\02.CenterPoint.dll
