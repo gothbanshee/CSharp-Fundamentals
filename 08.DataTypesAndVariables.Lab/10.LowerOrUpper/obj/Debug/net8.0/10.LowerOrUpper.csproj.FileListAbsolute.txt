@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\bin\Debug\net8.0\10.LowerOrUpper.exe
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\bin\Debug\net8.0\10.LowerOrUpper.deps.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\bin\Debug\net8.0\10.LowerOrUpper.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\bin\Debug\net8.0\10.LowerOrUpper.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\bin\Debug\net8.0\10.LowerOrUpper.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.sourcelink.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\refint\10.LowerOrUpper.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\10.LowerOrUpper.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\10.LowerOrUpper\obj\Debug\net8.0\ref\10.LowerOrUpper.dll

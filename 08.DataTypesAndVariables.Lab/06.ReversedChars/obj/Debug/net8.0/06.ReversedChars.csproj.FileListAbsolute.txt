@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.exe
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.deps.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\bin\Debug\net8.0\06.ReversedChars.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.sourcelink.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\refint\06.ReversedChars.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\06.ReversedChars.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\06.ReversedChars\obj\Debug\net8.0\ref\06.ReversedChars.dll

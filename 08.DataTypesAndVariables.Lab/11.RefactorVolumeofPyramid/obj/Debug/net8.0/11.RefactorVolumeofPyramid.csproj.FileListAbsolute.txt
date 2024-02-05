@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\bin\Debug\net8.0\11.RefactorVolumeofPyramid.exe
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\bin\Debug\net8.0\11.RefactorVolumeofPyramid.deps.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\bin\Debug\net8.0\11.RefactorVolumeofPyramid.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\bin\Debug\net8.0\11.RefactorVolumeofPyramid.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\bin\Debug\net8.0\11.RefactorVolumeofPyramid.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.sourcelink.json
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\refint\11.RefactorVolumeofPyramid.dll
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.pdb
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\11.RefactorVolumeofPyramid.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\08.DataTypesAndVariables.Lab\11.RefactorVolumeofPyramid\obj\Debug\net8.0\ref\11.RefactorVolumeofPyramid.dll
