@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\bin\Debug\net8.0\04.SieveOfEratosthenes.exe
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\bin\Debug\net8.0\04.SieveOfEratosthenes.deps.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\bin\Debug\net8.0\04.SieveOfEratosthenes.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\bin\Debug\net8.0\04.SieveOfEratosthenes.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\bin\Debug\net8.0\04.SieveOfEratosthenes.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.sourcelink.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\refint\04.SieveOfEratosthenes.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\04.SieveOfEratosthenes.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\04.SieveOfEratosthenes\obj\Debug\net8.0\ref\04.SieveOfEratosthenes.dll

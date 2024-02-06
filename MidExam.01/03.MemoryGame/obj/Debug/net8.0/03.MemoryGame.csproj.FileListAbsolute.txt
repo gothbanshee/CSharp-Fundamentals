@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.exe
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.dll
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\bin\Debug\net8.0\03.MemoryGame.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.dll
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\refint\03.MemoryGame.dll
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\03.MemoryGame.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.01\03.MemoryGame\obj\Debug\net8.0\ref\03.MemoryGame.dll

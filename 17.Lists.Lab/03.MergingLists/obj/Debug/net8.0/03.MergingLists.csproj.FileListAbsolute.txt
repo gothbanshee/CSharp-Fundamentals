@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\bin\Debug\net8.0\03.MergingLists.exe
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\bin\Debug\net8.0\03.MergingLists.deps.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\bin\Debug\net8.0\03.MergingLists.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\bin\Debug\net8.0\03.MergingLists.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\bin\Debug\net8.0\03.MergingLists.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.sourcelink.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\refint\03.MergingLists.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\03.MergingLists.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\03.MergingLists\obj\Debug\net8.0\ref\03.MergingLists.dll

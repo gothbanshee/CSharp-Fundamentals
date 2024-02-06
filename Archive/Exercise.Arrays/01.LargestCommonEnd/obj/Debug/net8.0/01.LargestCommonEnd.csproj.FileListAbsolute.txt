@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\bin\Debug\net8.0\01.LargestCommonEnd.exe
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\bin\Debug\net8.0\01.LargestCommonEnd.deps.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\bin\Debug\net8.0\01.LargestCommonEnd.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\bin\Debug\net8.0\01.LargestCommonEnd.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\bin\Debug\net8.0\01.LargestCommonEnd.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.sourcelink.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\refint\01.LargestCommonEnd.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\01.LargestCommonEnd.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\01.LargestCommonEnd\obj\Debug\net8.0\ref\01.LargestCommonEnd.dll

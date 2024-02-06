@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\bin\Debug\net8.0\05.CompareCharArrays.exe
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\bin\Debug\net8.0\05.CompareCharArrays.deps.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\bin\Debug\net8.0\05.CompareCharArrays.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\bin\Debug\net8.0\05.CompareCharArrays.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\bin\Debug\net8.0\05.CompareCharArrays.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.sourcelink.json
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\refint\05.CompareCharArrays.dll
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.pdb
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\05.CompareCharArrays.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\Archive\Exercise.Arrays\05.CompareCharArrays\obj\Debug\net8.0\ref\05.CompareCharArrays.dll

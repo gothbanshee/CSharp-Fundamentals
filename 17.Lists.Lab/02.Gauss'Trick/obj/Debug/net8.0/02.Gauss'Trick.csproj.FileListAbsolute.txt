@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\bin\Debug\net8.0\02.Gauss'Trick.exe
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\bin\Debug\net8.0\02.Gauss'Trick.deps.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\bin\Debug\net8.0\02.Gauss'Trick.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\bin\Debug\net8.0\02.Gauss'Trick.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\bin\Debug\net8.0\02.Gauss'Trick.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.sourcelink.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\refint\02.Gauss'Trick.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\02.Gauss'Trick.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\02.Gauss'Trick\obj\Debug\net8.0\ref\02.Gauss'Trick.dll

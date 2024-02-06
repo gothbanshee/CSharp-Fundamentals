@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\bin\Debug\net8.0\04.ListOfProducts.exe
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\bin\Debug\net8.0\04.ListOfProducts.deps.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\bin\Debug\net8.0\04.ListOfProducts.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\bin\Debug\net8.0\04.ListOfProducts.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\bin\Debug\net8.0\04.ListOfProducts.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.sourcelink.json
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\refint\04.ListOfProducts.dll
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.pdb
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\04.ListOfProducts.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\17.Lists.Lab\04.ListOfProducts\obj\Debug\net8.0\ref\04.ListOfProducts.dll
