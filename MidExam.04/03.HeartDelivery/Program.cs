@@ -6,9 +6,10 @@
         static void Main(string[] args)
         {
             int[] houses = Console.ReadLine()
-                .Split('@')
-                .Select(int.Parse)
-                .ToArray();
+                                  .Split('@')
+                                  .Select(int.Parse)
+                                  .ToArray();
+
             string input;
             int i = 0;
             int failedHouses = houses.Length;

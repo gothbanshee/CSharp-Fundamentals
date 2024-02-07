@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\bin\Debug\net8.0\03.MovingTarget.exe
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\bin\Debug\net8.0\03.MovingTarget.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\bin\Debug\net8.0\03.MovingTarget.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\bin\Debug\net8.0\03.MovingTarget.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\bin\Debug\net8.0\03.MovingTarget.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\refint\03.MovingTarget.dll
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\03.MovingTarget.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.03\03.MovingTarget\obj\Debug\net8.0\ref\03.MovingTarget.dll

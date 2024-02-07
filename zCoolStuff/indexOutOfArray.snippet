@@ -2,14 +2,24 @@
 <CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
 	<CodeSnippet Format="1.0.0">
 		<Header>
-			<Title>IndexOutOfRange</Title>
+			<Title>IndexOutOfRangeMethod</Title>
 			<Author>Myself</Author>
-			<Description>Checks if an index is outside of the array.</Description>
-			<Shortcut>indexOutOfArray</Shortcut>
+			<Description>Checks if an index is outside of the array. Returns boolean</Description>
+			<Shortcut>invalidIndex</Shortcut>
 		</Header>
 		<Snippet>
 			<Code Language="CSharp">
-				<![CDATA[if ($index$ < 0 || $index$ >= $array$.Length)]]>
+				<![CDATA[static bool IndexOutOfArray(List<string> elements, string[] command)
+        {
+            if (command[1] < 0 || command[1] >= elements.Count)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }]]>
 			</Code>
 		</Snippet>
 	</CodeSnippet>

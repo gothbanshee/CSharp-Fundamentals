@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.HeartDelivery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50826a8161ada561f45d89c4cdca7784743865af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8866f593e89979fcb0e5e1b776a8b5f603e88a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.HeartDelivery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.HeartDelivery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

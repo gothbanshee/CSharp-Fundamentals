@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\02.ShoppingList\\03.HeartDelivery.csproj",
+      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\03.HeartDelivery\\03.HeartDelivery.csproj",
       "projectName": "03.HeartDelivery",
-      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\02.ShoppingList\\03.HeartDelivery.csproj",
+      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\03.HeartDelivery\\03.HeartDelivery.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\02.ShoppingList\\obj\\",
+      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\MidExam.04\\03.HeartDelivery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
