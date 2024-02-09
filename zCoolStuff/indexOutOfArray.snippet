@@ -11,7 +11,7 @@
 			<Code Language="CSharp">
 				<![CDATA[static bool IndexOutOfArray(List<string> elements, string[] command)
         {
-            if (command[1] < 0 || command[1] >= elements.Count)
+            if (int.Parse(command[1]) < 0 || int.Parse(command[1]) >= elements.Count)
             {
                 return true;
             }

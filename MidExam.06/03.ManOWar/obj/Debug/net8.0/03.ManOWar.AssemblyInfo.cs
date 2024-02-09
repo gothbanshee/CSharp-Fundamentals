@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03.ManOWar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6d24649b43ee56635c4d72af70e28cbfb60047")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9262da4bd1371f98bff69a582fc74b241550f17")]
 [assembly: System.Reflection.AssemblyProductAttribute("03.ManOWar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03.ManOWar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

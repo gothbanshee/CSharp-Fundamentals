@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.exe
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\bin\Debug\net8.0\02.TreasureHunt.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\refint\02.TreasureHunt.dll
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\02.TreasureHunt.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.06\02.TreasureHunt\obj\Debug\net8.0\ref\02.TreasureHunt.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\bin\Debug\net8.0\03.Inventory.exe
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\bin\Debug\net8.0\03.Inventory.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\bin\Debug\net8.0\03.Inventory.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\bin\Debug\net8.0\03.Inventory.dll
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\bin\Debug\net8.0\03.Inventory.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.dll
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\refint\03.Inventory.dll
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\03.Inventory.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.05\03.Inventory\obj\Debug\net8.0\ref\03.Inventory.dll

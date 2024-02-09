@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.MuOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bcaf3f12d6ee0f731b332a58472de2cfc46c41a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9262da4bd1371f98bff69a582fc74b241550f17")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.MuOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.MuOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

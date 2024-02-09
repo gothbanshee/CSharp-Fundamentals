@@ -33,8 +33,7 @@ namespace _02.ShoppingList
                     case "Correct":
                         if (ExistsInList(list, command))
                         {
-                            list.Insert(list.FindIndex(0, list.Count, x => x == command[1]), command[2]);
-                            list.Remove(command[1]);
+                            list[list.FindIndex(x => x == command[1])] = command[2];
                         }
                         break;
                     case "Rearrange":
