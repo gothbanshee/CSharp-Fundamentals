@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\bin\Debug\net8.0\08.AnonymousThreat.exe
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\bin\Debug\net8.0\08.AnonymousThreat.deps.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\bin\Debug\net8.0\08.AnonymousThreat.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\bin\Debug\net8.0\08.AnonymousThreat.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\bin\Debug\net8.0\08.AnonymousThreat.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.sourcelink.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\refint\08.AnonymousThreat.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\08.AnonymousThreat.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\08.AnonymousThreat\obj\Debug\net8.0\ref\08.AnonymousThreat.dll

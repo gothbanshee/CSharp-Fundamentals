@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\bin\Debug\net8.0\01.Train.exe
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\bin\Debug\net8.0\01.Train.deps.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\bin\Debug\net8.0\01.Train.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\bin\Debug\net8.0\01.Train.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\bin\Debug\net8.0\01.Train.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.sourcelink.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\refint\01.Train.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\01.Train.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\01.Train\obj\Debug\net8.0\ref\01.Train.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\bin\Debug\net8.0\04.ListOperations.exe
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\bin\Debug\net8.0\04.ListOperations.deps.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\bin\Debug\net8.0\04.ListOperations.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\bin\Debug\net8.0\04.ListOperations.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\bin\Debug\net8.0\04.ListOperations.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.sourcelink.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\refint\04.ListOperations.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\04.ListOperations.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\04.ListOperations\obj\Debug\net8.0\ref\04.ListOperations.dll

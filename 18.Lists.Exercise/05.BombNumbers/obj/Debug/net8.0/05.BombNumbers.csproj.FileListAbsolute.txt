@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.exe
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.deps.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\bin\Debug\net8.0\05.BombNumbers.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.sourcelink.json
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\refint\05.BombNumbers.dll
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.pdb
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\05.BombNumbers.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\18.Lists.Exercise\05.BombNumbers\obj\Debug\net8.0\ref\05.BombNumbers.dll
