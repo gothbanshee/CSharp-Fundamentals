@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\08.MathPower\\08.MathPower.csproj",
+      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\08.MathPower\\08.MathPower.csproj",
       "projectName": "08.MathPower",
-      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\08.MathPower\\08.MathPower.csproj",
+      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\08.MathPower\\08.MathPower.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\08.MathPower\\obj\\",
+      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\08.MathPower\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10.MultiplyEvensByOdds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+704a5949802644b3757e3453d422b636a0c2b548")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e01c7277b439726d63ba8b88122e2b8fdc5572")]
 [assembly: System.Reflection.AssemblyProductAttribute("10.MultiplyEvensByOdds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10.MultiplyEvensByOdds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

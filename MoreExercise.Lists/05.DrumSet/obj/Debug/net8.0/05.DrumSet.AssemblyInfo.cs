@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05.DrumSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46dabad32cb6f7eb62c8e705f591f4173fdbba82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e01c7277b439726d63ba8b88122e2b8fdc5572")]
 [assembly: System.Reflection.AssemblyProductAttribute("05.DrumSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05.DrumSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWsanjyMSj9ZgijqDl3UpCFyQRbHNWNbUcwHk9Ms3vLk/p6ylx/YYuh1WKgiqJu2Wm82ACT7GqsHu2N3uhgMDA==",
+  "dgSpecHash": "F/3FqOhT/GMpOU2kvjQcZxZcD00X48ZJtbLLpliYw2ySUcIJUyN0FiPeJt+IAjLE1XPCFbTBfxWJabLAFrY5jQ==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

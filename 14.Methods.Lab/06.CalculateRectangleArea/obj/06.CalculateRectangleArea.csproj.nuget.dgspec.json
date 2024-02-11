@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj": {}
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj": {}
   },
   "projects": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj": {
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
+        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
         "projectName": "06.CalculateRectangleArea",
-        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
+        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\06.CalculateRectangleArea.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\06.CalculateRectangleArea\\obj\\",
+        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\06.CalculateRectangleArea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

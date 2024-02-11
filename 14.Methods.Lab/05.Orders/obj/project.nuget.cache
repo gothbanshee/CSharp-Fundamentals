@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fiKUqvVWLfKa0/lgnchHHe1wShfix48f3FrhUY/W1dkzZucC/GuTuxjMrYfoqFK9vtcNSzpJZD+rlf/trNytIw==",
+  "dgSpecHash": "nXeQkh1ait3Ou0DJJWQ3gAni7QEajHt+9CpTA1OzntqC88NWqfJMj1AMRFUA4o9U5dbwcPTVXnBzKs+Bxyqo3A==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\05.Orders\\05.Orders.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\05.Orders\\05.Orders.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

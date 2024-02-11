@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AtpxqUaqINjatSwtDu64GNwKWEAj33+uNZkNb/Wf5w46z79gofh5kRy/DTQa+jGjhJizZsdXWfZogyCki8b4/Q==",
+  "dgSpecHash": "94YrRXvjRO7SkPXEhKgtIy84vuIs8z1DJiOs4657q9q7q7xZ3n7bSInzvviT/R4f5rBiCljWBRiC1rj6oWKy3Q==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\07.RepeatString\\07.RepeatString.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\07.RepeatString\\07.RepeatString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

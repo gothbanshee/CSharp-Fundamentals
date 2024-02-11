@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuRsxJEJwpxR23CG7gUDe8qNgUbqygid2blhXUZALSYoAMSYHQAnDkb8z7osBojJAlVaAFg1xOyhkd6QksBBpA==",
+  "dgSpecHash": "zwb0jhMHZeFWmVEJz1qzqQ40uekpAc9/qkSgbOIO817sf3xmvojGPxYIhw5g5EAxv4bNTW2X2336piRfwiZRMw==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\02.Grades\\02.Grades.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\02.Grades\\02.Grades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

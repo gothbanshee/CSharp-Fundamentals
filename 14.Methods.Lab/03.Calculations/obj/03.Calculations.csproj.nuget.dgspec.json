@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\03.Calculations\\03.Calculations.csproj": {}
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\03.Calculations\\03.Calculations.csproj": {}
   },
   "projects": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\03.Calculations\\03.Calculations.csproj": {
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\03.Calculations\\03.Calculations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\03.Calculations\\03.Calculations.csproj",
+        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\03.Calculations\\03.Calculations.csproj",
         "projectName": "03.Calculations",
-        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\03.Calculations\\03.Calculations.csproj",
+        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\03.Calculations\\03.Calculations.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\03.Calculations\\obj\\",
+        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\03.Calculations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

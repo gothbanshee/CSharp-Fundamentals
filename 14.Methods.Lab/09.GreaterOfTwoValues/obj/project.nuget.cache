@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RgwhZyVicMR8HvyRrVbqDCKLmLE4uAksXp3HVsK3Sosj8Mmrw++E0O/PpxstD+xvWZvX/6WYlqetpvV38yBOTQ==",
+  "dgSpecHash": "Ay0sHp+vZErEF3zcyoMUngp3cYXfavNCH6K2Grvn9876Kjlcggc5jnjYCrrqJxJCdgww8guU66Fu18h+YvNCYQ==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\09.GreaterOfTwoValues\\09.GreaterOfTwoValues.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ghKEKCTH5IuLhuiDhcmbQjO5O5ZZysObtDdRzsUsUnD9zIqTpVppUw0eJuNhJclnl2IiSvp/BwdKUGcNhNA8Ww==",
+  "dgSpecHash": "3BInbvbtt2fWeMbjeVUOOYTV2R8Q/Qf7iLj0VWSYDaiHlISrKzAi0jClGSq7gAgx7cAJGhAnMdtBCqimp8FyMw==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

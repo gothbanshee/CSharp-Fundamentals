@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\07.RepeatString\\07.RepeatString.csproj",
+      "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\07.RepeatString\\07.RepeatString.csproj",
       "projectName": "07.RepeatString",
-      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\07.RepeatString\\07.RepeatString.csproj",
+      "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\07.RepeatString\\07.RepeatString.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\07.RepeatString\\obj\\",
+      "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\07.RepeatString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mysIrCkdP42ObEVQHVYALjUHO3HtQyy9knDy0xFrKA6N+7A4VU149s4tNIp5CF77G5qMs2iGPY569D1EtHbVw==",
+  "dgSpecHash": "dU7MhDUq/7R6lT+sNyZ1i+yp2UQ8KZrUrHlvQTynmFWlA0NvSgLF3F7eMZXGlj89y6TreEf69WJPrHMlRqPxug==",
   "success": true,
-  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
+  "projectFilePath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\04.PrintingTriangle\\04.PrintingTriangle.csproj": {}
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\04.PrintingTriangle\\04.PrintingTriangle.csproj": {}
   },
   "projects": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\04.PrintingTriangle\\04.PrintingTriangle.csproj": {
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\04.PrintingTriangle\\04.PrintingTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\04.PrintingTriangle\\04.PrintingTriangle.csproj",
+        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\04.PrintingTriangle\\04.PrintingTriangle.csproj",
         "projectName": "04.PrintingTriangle",
-        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\04.PrintingTriangle\\04.PrintingTriangle.csproj",
+        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\04.PrintingTriangle\\04.PrintingTriangle.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\04.PrintingTriangle\\obj\\",
+        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\04.PrintingTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

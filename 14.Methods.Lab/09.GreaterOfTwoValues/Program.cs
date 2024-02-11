@@ -1,6 +1,4 @@
-﻿
-
-namespace _09.GreaterOfTwoValues // only 77/100 in Judge
+﻿namespace _09.GreaterOfTwoValues
 {
     internal class Program
     {
@@ -48,19 +46,9 @@ namespace _09.GreaterOfTwoValues // only 77/100 in Judge
 
         private static void GetMax(string? first, string? second)
         {
-            int firstSum = 0;
-            int secondSum = 0;
-            foreach (char letter in first)
-            {
-                firstSum += letter;
-            }
+            int result = first.CompareTo(second);
 
-            foreach (char letter in second)
-            {
-                secondSum += letter;
-            }
-
-            if (firstSum > secondSum)
+            if (result > 0)
             {
                 Console.WriteLine(first);
             }

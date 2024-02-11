@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj": {}
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj": {}
   },
   "projects": {
-    "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj": {
+    "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
+        "projectUniqueName": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
         "projectName": "10.MultiplyEvensByOdds",
-        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
+        "projectPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\10.MultiplyEvensByOdds.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Lab.Methods\\10.MultiplyEvensByOdds\\obj\\",
+        "outputPath": "D:\\Funds\\CSharp-Fundamentals\\14.Methods.Lab\\10.MultiplyEvensByOdds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
