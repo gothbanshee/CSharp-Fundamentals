@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\bin\Debug\net8.0\04.MixedUpLists.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\bin\Debug\net8.0\04.MixedUpLists.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\bin\Debug\net8.0\04.MixedUpLists.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\bin\Debug\net8.0\04.MixedUpLists.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\bin\Debug\net8.0\04.MixedUpLists.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\refint\04.MixedUpLists.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\04.MixedUpLists.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\04.MixedUpLists\obj\Debug\net8.0\ref\04.MixedUpLists.dll

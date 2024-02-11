@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\bin\Debug\net8.0\01.Messaging.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\bin\Debug\net8.0\01.Messaging.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\bin\Debug\net8.0\01.Messaging.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\bin\Debug\net8.0\01.Messaging.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\bin\Debug\net8.0\01.Messaging.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\refint\01.Messaging.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\01.Messaging.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\01.Messaging\obj\Debug\net8.0\ref\01.Messaging.dll

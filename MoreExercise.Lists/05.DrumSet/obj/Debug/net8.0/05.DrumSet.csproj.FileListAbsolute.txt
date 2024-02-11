@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\bin\Debug\net8.0\05.DrumSet.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\bin\Debug\net8.0\05.DrumSet.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\bin\Debug\net8.0\05.DrumSet.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\bin\Debug\net8.0\05.DrumSet.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\bin\Debug\net8.0\05.DrumSet.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\refint\05.DrumSet.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\05.DrumSet.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\05.DrumSet\obj\Debug\net8.0\ref\05.DrumSet.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\bin\Debug\net8.0\03.TakeOrSkipRope.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\bin\Debug\net8.0\03.TakeOrSkipRope.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\bin\Debug\net8.0\03.TakeOrSkipRope.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\bin\Debug\net8.0\03.TakeOrSkipRope.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\bin\Debug\net8.0\03.TakeOrSkipRope.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\refint\03.TakeOrSkipRope.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\03.TakeOrSkipRope.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.Lists\03.TakeOrSkipRope\obj\Debug\net8.0\ref\03.TakeOrSkipRope.dll
