@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\bin\Debug\net8.0\03.SchoolLibrary.exe
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\bin\Debug\net8.0\03.SchoolLibrary.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\bin\Debug\net8.0\03.SchoolLibrary.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\bin\Debug\net8.0\03.SchoolLibrary.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\bin\Debug\net8.0\03.SchoolLibrary.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\refint\03.SchoolLibrary.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\03.SchoolLibrary.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\03.SchoolLibrary\obj\Debug\net8.0\ref\03.SchoolLibrary.dll

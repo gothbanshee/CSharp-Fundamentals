@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\bin\Debug\net8.0\01.BurgerBus.exe
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\bin\Debug\net8.0\01.BurgerBus.deps.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\bin\Debug\net8.0\01.BurgerBus.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\bin\Debug\net8.0\01.BurgerBus.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\bin\Debug\net8.0\01.BurgerBus.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\refint\01.BurgerBus.dll
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.pdb
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\01.BurgerBus.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MidExam.180224\01.BurgerBus\obj\Debug\net8.0\ref\01.BurgerBus.dll

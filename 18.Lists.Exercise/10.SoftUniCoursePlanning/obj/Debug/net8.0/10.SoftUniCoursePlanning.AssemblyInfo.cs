@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10.SoftUniCoursePlanning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46dabad32cb6f7eb62c8e705f591f4173fdbba82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d84b1b13ce209884f8ef2da092f0015c4fb3be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("10.SoftUniCoursePlanning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10.SoftUniCoursePlanning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
