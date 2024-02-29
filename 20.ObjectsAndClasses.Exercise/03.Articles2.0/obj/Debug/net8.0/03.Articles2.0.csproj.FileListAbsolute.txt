@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\bin\Debug\net8.0\03.Articles2.0.exe
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\bin\Debug\net8.0\03.Articles2.0.deps.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\bin\Debug\net8.0\03.Articles2.0.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\bin\Debug\net8.0\03.Articles2.0.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\bin\Debug\net8.0\03.Articles2.0.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.sourcelink.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\refint\03.Articles2.0.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\03.Articles2.0.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\03.Articles2.0\obj\Debug\net8.0\ref\03.Articles2.0.dll

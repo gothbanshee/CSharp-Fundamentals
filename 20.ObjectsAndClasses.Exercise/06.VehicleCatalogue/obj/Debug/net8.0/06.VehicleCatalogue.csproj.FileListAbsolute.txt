@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.exe
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.deps.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\bin\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.sourcelink.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\refint\06.VehicleCatalogue.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\06.VehicleCatalogue.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\06.VehicleCatalogue\obj\Debug\net8.0\ref\06.VehicleCatalogue.dll

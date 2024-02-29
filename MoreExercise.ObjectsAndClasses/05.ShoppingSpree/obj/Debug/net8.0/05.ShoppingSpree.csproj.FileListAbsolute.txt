@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\bin\Debug\net8.0\05.ShoppingSpree.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\refint\05.ShoppingSpree.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\05.ShoppingSpree.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\05.ShoppingSpree\obj\Debug\net8.0\ref\05.ShoppingSpree.dll

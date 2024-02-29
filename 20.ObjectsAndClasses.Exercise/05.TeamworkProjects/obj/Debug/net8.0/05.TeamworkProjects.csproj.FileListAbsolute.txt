@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\bin\Debug\net8.0\05.TeamworkProjects.exe
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\bin\Debug\net8.0\05.TeamworkProjects.deps.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\bin\Debug\net8.0\05.TeamworkProjects.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\bin\Debug\net8.0\05.TeamworkProjects.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\bin\Debug\net8.0\05.TeamworkProjects.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.sourcelink.json
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\refint\05.TeamworkProjects.dll
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.pdb
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\05.TeamworkProjects.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\20.ObjectsAndClasses.Exercise\05.TeamworkProjects\obj\Debug\net8.0\ref\05.TeamworkProjects.dll
