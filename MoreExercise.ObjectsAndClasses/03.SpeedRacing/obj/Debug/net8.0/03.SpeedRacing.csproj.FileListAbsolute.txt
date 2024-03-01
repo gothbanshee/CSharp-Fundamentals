@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\bin\Debug\net8.0\03.SpeedRacing.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\refint\03.SpeedRacing.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\03.SpeedRacing.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\03.SpeedRacing\obj\Debug\net8.0\ref\03.SpeedRacing.dll

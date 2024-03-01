@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CompanyRoster", "01.Comp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ShoppingSpree", "05.ShoppingSpree\05.ShoppingSpree.csproj", "{42900766-5040-4033-8174-AD08AA46BCE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OldestFamilyMember", "02.OldestFamilyMember\02.OldestFamilyMember.csproj", "{4004C440-EF85-41BB-A20D-3C1139F839CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.OldestFamilyMember", "02.OldestFamilyMember\02.OldestFamilyMember.csproj", "{4004C440-EF85-41BB-A20D-3C1139F839CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpeedRacing", "03.SpeedRacing\03.SpeedRacing.csproj", "{4843391B-788A-4D11-8371-E941E0B97E23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SpeedRacing", "03.SpeedRacing\03.SpeedRacing.csproj", "{4843391B-788A-4D11-8371-E941E0B97E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RawData", "04.RawData\04.RawData.csproj", "{B2ECAFDE-D28D-4BC9-AAAF-39756482D046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4843391B-788A-4D11-8371-E941E0B97E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4843391B-788A-4D11-8371-E941E0B97E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4843391B-788A-4D11-8371-E941E0B97E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2ECAFDE-D28D-4BC9-AAAF-39756482D046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ECAFDE-D28D-4BC9-AAAF-39756482D046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ECAFDE-D28D-4BC9-AAAF-39756482D046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ECAFDE-D28D-4BC9-AAAF-39756482D046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
