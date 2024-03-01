@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\bin\Debug\net8.0\02.OldestFamilyMember.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\refint\02.OldestFamilyMember.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\02.OldestFamilyMember.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\02.OldestFamilyMember\obj\Debug\net8.0\ref\02.OldestFamilyMember.dll

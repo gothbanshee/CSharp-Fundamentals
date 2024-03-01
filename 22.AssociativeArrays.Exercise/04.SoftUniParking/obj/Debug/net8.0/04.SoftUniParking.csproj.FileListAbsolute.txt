@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.exe
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.deps.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\bin\Debug\net8.0\04.SoftUniParking.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.sourcelink.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\refint\04.SoftUniParking.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\04.SoftUniParking.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\04.SoftUniParking\obj\Debug\net8.0\ref\04.SoftUniParking.dll

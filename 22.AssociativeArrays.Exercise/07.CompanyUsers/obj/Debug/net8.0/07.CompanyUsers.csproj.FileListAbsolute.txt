@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.exe
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.deps.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\bin\Debug\net8.0\07.CompanyUsers.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.sourcelink.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\refint\07.CompanyUsers.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\07.CompanyUsers.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\07.CompanyUsers\obj\Debug\net8.0\ref\07.CompanyUsers.dll

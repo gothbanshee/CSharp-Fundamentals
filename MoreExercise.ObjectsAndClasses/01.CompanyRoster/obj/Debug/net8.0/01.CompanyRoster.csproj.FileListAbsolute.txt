@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\bin\Debug\net8.0\01.CompanyRoster.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\refint\01.CompanyRoster.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\01.CompanyRoster.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.ObjectsAndClasses\01.CompanyRoster\obj\Debug\net8.0\ref\01.CompanyRoster.dll

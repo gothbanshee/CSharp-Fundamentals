@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.exe
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.deps.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\bin\Debug\net8.0\06.StudentAcademy.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.sourcelink.json
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\refint\06.StudentAcademy.dll
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.pdb
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\06.StudentAcademy.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\22.AssociativeArrays.Exercise\06.StudentAcademy\obj\Debug\net8.0\ref\06.StudentAcademy.dll
