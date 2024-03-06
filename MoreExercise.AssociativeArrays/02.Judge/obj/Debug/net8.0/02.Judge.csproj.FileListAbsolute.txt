@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\bin\Debug\net8.0\02.Judge.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\bin\Debug\net8.0\02.Judge.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\bin\Debug\net8.0\02.Judge.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\bin\Debug\net8.0\02.Judge.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\bin\Debug\net8.0\02.Judge.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\refint\02.Judge.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\02.Judge.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\02.Judge\obj\Debug\net8.0\ref\02.Judge.dll

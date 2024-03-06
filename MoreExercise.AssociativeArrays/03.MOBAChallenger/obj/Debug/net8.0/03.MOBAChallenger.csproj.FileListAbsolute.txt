@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\bin\Debug\net8.0\03.MOBAChallenger.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\refint\03.MOBAChallenger.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\03.MOBAChallenger.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\03.MOBAChallenger\obj\Debug\net8.0\ref\03.MOBAChallenger.dll

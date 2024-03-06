@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\bin\Debug\net8.0\01.Ranking.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\bin\Debug\net8.0\01.Ranking.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\bin\Debug\net8.0\01.Ranking.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\bin\Debug\net8.0\01.Ranking.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\bin\Debug\net8.0\01.Ranking.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\refint\01.Ranking.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\01.Ranking.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.AssociativeArrays\01.Ranking\obj\Debug\net8.0\ref\01.Ranking.dll
