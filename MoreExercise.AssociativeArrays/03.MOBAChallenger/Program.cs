@@ -19,7 +19,7 @@ namespace _03.MOBAChallenger
         {
             Lanes = Lanes.OrderByDescending(l => l.Value)
                          .ThenBy(l => l.Key)
-                         .ToDictionary();
+                         .ToDictionary(x => x.Key, x => x.Value);
         }
 
         public override string ToString()
@@ -32,7 +32,7 @@ namespace _03.MOBAChallenger
             string result = "";
             foreach (var keyValuePair in Lanes)
             {
-                result += $"{keyValuePair.Key} <::> {keyValuePair.Value}\n";
+                result += $"- {keyValuePair.Key} <::> {keyValuePair.Value}\n";
             }
             return result.Trim();
         }
@@ -65,7 +65,14 @@ namespace _03.MOBAChallenger
 
                         if (firstPlayersLanes.Intersect(secondPlayersLanes).Count() != 0)
                         {
-
+                            if (players[firstIndex].TotalSkill > players[secondIndex].TotalSkill)
+                            {
+                                players.RemoveAt(secondIndex);
+                            }
+                            else
+                            {
+                                players.RemoveAt(firstIndex);
+                            }
                         }
                     }
                 }
