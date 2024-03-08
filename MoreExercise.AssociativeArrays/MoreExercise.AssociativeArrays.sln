@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Judge", "02.Judge\02.Jud
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MOBAChallenger", "03.MOBAChallenger\03.MOBAChallenger.csproj", "{1C5BFDD5-31D3-4819-9C6D-129B80B6ED45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Snowwhite", "04.Snowwhite\04.Snowwhite.csproj", "{B3D61279-138B-4631-BBBD-0B799045379E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Snowwhite", "04.Snowwhite\04.Snowwhite.csproj", "{B3D61279-138B-4631-BBBD-0B799045379E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DragonArmy", "05.DragonArmy\05.DragonArmy.csproj", "{1213B983-73CC-4A8E-8D22-0B020DBD4B27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B3D61279-138B-4631-BBBD-0B799045379E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D61279-138B-4631-BBBD-0B799045379E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D61279-138B-4631-BBBD-0B799045379E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1213B983-73CC-4A8E-8D22-0B020DBD4B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1213B983-73CC-4A8E-8D22-0B020DBD4B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1213B983-73CC-4A8E-8D22-0B020DBD4B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1213B983-73CC-4A8E-8D22-0B020DBD4B27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

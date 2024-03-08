@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\bin\Debug\net8.0\02.FromLeftToTheRight.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\refint\02.FromLeftToTheRight.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\02.FromLeftToTheRight.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.DataTypesAndVariables\02.FromLeftToTheRight\obj\Debug\net8.0\ref\02.FromLeftToTheRight.dll

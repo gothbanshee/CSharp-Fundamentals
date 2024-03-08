@@ -8,35 +8,26 @@
 
             for (int i = 0; i < n; i++)
             {
-                string whole = Console.ReadLine();
-
-                string[] result = whole.Split(' ');
+                string[] result = Console.ReadLine().Split();
                 long left = long.Parse(result[0]);
                 long right = long.Parse(result[1]);
 
-                if (left >= right)
-                {
-                    long sum = 0;
-
-                    for (int j = 0; j < result[0].Length; j++)
-                    {
-                        sum += left % 10;
-                        left /= 10;
-                    }
-                    Console.WriteLine(Math.Abs(sum));
-                }
-                else
-                {
-                    long sum = 0;
-
-                    for (int j = 0; j < result[1].Length; j++)
-                    {
-                        sum += right % 10;
-                        right /= 10;
-                    }
-                    Console.WriteLine(Math.Abs(sum));
-                }
+                long sum = GetSumOfDigits(Math.Abs(Math.Max(left, right)));
+                Console.WriteLine(sum);
             }
+        }
+
+        private static long GetSumOfDigits(long number)
+        {
+            long sum = 0;
+
+            while (number > 0)
+            {
+                sum += number % 10;
+                number /= 10;
+            }
+
+            return sum;
         }
     }
 }
