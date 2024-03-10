@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.exe
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.deps.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\bin\Debug\net8.0\02.OddOccurrences.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.sourcelink.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\refint\02.OddOccurrences.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\02.OddOccurrences.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\02.OddOccurrences\obj\Debug\net8.0\ref\02.OddOccurrences.dll

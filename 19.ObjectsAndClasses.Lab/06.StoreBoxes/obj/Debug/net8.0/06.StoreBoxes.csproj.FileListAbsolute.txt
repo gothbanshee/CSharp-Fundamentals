@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\bin\Debug\net8.0\06.StoreBoxes.exe
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\bin\Debug\net8.0\06.StoreBoxes.deps.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\bin\Debug\net8.0\06.StoreBoxes.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\bin\Debug\net8.0\06.StoreBoxes.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\bin\Debug\net8.0\06.StoreBoxes.pdb
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.sourcelink.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\refint\06.StoreBoxes.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.pdb
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\06.StoreBoxes.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\06.StoreBoxes\obj\Debug\net8.0\ref\06.StoreBoxes.dll

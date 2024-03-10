@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\bin\Debug\net8.0\04.Students.exe
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\bin\Debug\net8.0\04.Students.deps.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\bin\Debug\net8.0\04.Students.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\bin\Debug\net8.0\04.Students.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\bin\Debug\net8.0\04.Students.pdb
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.sourcelink.json
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\refint\04.Students.dll
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.pdb
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\04.Students.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\19.ObjectsAndClasses.Lab\04.Students\obj\Debug\net8.0\ref\04.Students.dll

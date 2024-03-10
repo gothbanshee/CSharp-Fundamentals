@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\bin\Debug\net8.0\03.WordSynonyms.exe
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\bin\Debug\net8.0\03.WordSynonyms.deps.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\bin\Debug\net8.0\03.WordSynonyms.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\bin\Debug\net8.0\03.WordSynonyms.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\bin\Debug\net8.0\03.WordSynonyms.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.sourcelink.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\refint\03.WordSynonyms.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\03.WordSynonyms.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\03.WordSynonyms\obj\Debug\net8.0\ref\03.WordSynonyms.dll

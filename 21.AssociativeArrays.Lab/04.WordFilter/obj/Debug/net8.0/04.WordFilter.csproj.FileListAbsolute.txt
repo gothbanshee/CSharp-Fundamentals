@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.exe
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.deps.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\bin\Debug\net8.0\04.WordFilter.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.sourcelink.json
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\refint\04.WordFilter.dll
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.pdb
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\04.WordFilter.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\21.AssociativeArrays.Lab\04.WordFilter\obj\Debug\net8.0\ref\04.WordFilter.dll
