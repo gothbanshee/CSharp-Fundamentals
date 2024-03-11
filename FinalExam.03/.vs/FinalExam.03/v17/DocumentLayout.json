@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Funds\\CSharp-Fundamentals\\FinalExam.03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7483A846-DF1E-4C20-84BF-8C3D972F9FD4}|03.NeedForSpeedIII\\03.NeedForSpeedIII.csproj|d:\\funds\\csharp-fundamentals\\finalexam.03\\03.needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7483A846-DF1E-4C20-84BF-8C3D972F9FD4}|03.NeedForSpeedIII\\03.NeedForSpeedIII.csproj|solutionrelative:03.needforspeediii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1C49F22-D6B7-4177-9A45-826F794D68C2}|01.SecretChat\\01.SecretChat.csproj|d:\\funds\\csharp-fundamentals\\finalexam.03\\01.secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C49F22-D6B7-4177-9A45-826F794D68C2}|01.SecretChat\\01.SecretChat.csproj|solutionrelative:01.secretchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Funds\\CSharp-Fundamentals\\FinalExam.03\\03.NeedForSpeedIII\\Program.cs",
+              "RelativeDocumentMoniker": "03.NeedForSpeedIII\\Program.cs",
+              "ToolTip": "D:\\Funds\\CSharp-Fundamentals\\FinalExam.03\\03.NeedForSpeedIII\\Program.cs",
+              "RelativeToolTip": "03.NeedForSpeedIII\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:18:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Funds\\CSharp-Fundamentals\\FinalExam.03\\01.SecretChat\\Program.cs",
               "RelativeDocumentMoniker": "01.SecretChat\\Program.cs",
               "ToolTip": "D:\\Funds\\CSharp-Fundamentals\\FinalExam.03\\01.SecretChat\\Program.cs",
               "RelativeToolTip": "01.SecretChat\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T18:59:06.879Z",
               "EditorCaption": ""
