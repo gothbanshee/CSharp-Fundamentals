@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\bin\Debug\net8.0\01.ExtractPersonInformation.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\bin\Debug\net8.0\01.ExtractPersonInformation.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\bin\Debug\net8.0\01.ExtractPersonInformation.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\bin\Debug\net8.0\01.ExtractPersonInformation.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\bin\Debug\net8.0\01.ExtractPersonInformation.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\refint\01.ExtractPersonInformation.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\01.ExtractPersonInformation.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\01.ExtractPersonInformation\obj\Debug\net8.0\ref\01.ExtractPersonInformation.dll

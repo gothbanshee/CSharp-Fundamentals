@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.exe
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.deps.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\bin\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.sourcelink.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\refint\02.CharacterMultiplier.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\02.CharacterMultiplier.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\02.CharacterMultiplier\obj\Debug\net8.0\ref\02.CharacterMultiplier.dll

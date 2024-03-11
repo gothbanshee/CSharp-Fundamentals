@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\bin\Debug\net8.0\02.AsciiSumator.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\refint\02.AsciiSumator.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\02.AsciiSumator.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\02.AsciiSumator\obj\Debug\net8.0\ref\02.AsciiSumator.dll

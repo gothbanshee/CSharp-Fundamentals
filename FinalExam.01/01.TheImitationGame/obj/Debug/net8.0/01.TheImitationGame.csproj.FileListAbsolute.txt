@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\bin\Debug\net8.0\01.TheImitationGame.exe
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\bin\Debug\net8.0\01.TheImitationGame.deps.json
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\bin\Debug\net8.0\01.TheImitationGame.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\bin\Debug\net8.0\01.TheImitationGame.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\bin\Debug\net8.0\01.TheImitationGame.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.sourcelink.json
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\refint\01.TheImitationGame.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\01.TheImitationGame.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.01\01.TheImitationGame\obj\Debug\net8.0\ref\01.TheImitationGame.dll

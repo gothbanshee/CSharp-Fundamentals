@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\bin\Debug\net8.0\02.RepeatStrings.exe
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\bin\Debug\net8.0\02.RepeatStrings.deps.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\bin\Debug\net8.0\02.RepeatStrings.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\bin\Debug\net8.0\02.RepeatStrings.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\bin\Debug\net8.0\02.RepeatStrings.pdb
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.sourcelink.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\refint\02.RepeatStrings.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.pdb
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\02.RepeatStrings.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\02.RepeatStrings\obj\Debug\net8.0\ref\02.RepeatStrings.dll

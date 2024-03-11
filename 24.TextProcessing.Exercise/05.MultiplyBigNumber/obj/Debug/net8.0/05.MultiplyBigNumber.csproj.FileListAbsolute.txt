@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.exe
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.deps.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\bin\Debug\net8.0\05.MultiplyBigNumber.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.sourcelink.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\refint\05.MultiplyBigNumber.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\05.MultiplyBigNumber.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\05.MultiplyBigNumber\obj\Debug\net8.0\ref\05.MultiplyBigNumber.dll

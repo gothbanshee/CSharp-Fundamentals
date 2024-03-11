@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.exe
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.deps.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\bin\Debug\net8.0\08.LettersChangeNumbers.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.sourcelink.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\refint\08.LettersChangeNumbers.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\08.LettersChangeNumbers.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\08.LettersChangeNumbers\obj\Debug\net8.0\ref\08.LettersChangeNumbers.dll

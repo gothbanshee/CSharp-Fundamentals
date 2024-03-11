@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.exe
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.deps.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\bin\Debug\net8.0\04.TextFilter.pdb
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.sourcelink.json
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\refint\04.TextFilter.dll
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.pdb
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\04.TextFilter.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\23.TextProcessing.Lab\04.TextFilter\obj\Debug\net8.0\ref\04.TextFilter.dll

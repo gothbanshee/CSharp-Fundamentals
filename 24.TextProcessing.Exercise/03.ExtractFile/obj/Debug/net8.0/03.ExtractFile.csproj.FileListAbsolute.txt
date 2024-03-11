@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.exe
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.deps.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\bin\Debug\net8.0\03.ExtractFile.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.sourcelink.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\refint\03.ExtractFile.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\03.ExtractFile.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\03.ExtractFile\obj\Debug\net8.0\ref\03.ExtractFile.dll

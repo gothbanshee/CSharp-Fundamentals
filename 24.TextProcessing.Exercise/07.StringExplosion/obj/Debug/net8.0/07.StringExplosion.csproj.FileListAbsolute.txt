@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.exe
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.deps.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\bin\Debug\net8.0\07.StringExplosion.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.sourcelink.json
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\refint\07.StringExplosion.dll
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.pdb
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\07.StringExplosion.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\24.TextProcessing.Exercise\07.StringExplosion\obj\Debug\net8.0\ref\07.StringExplosion.dll

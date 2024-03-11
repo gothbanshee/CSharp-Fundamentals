@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02.BigFactorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9280f7893fe1491789e09b34f76a73987d2e0a53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43f9f5a14e1d51b11eacc838e03ad8afe5812f67")]
 [assembly: System.Reflection.AssemblyProductAttribute("02.BigFactorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02.BigFactorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

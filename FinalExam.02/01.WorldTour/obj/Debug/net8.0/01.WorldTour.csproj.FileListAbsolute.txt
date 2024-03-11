@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\bin\Debug\net8.0\01.WorldTour.exe
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\bin\Debug\net8.0\01.WorldTour.deps.json
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\bin\Debug\net8.0\01.WorldTour.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\bin\Debug\net8.0\01.WorldTour.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\bin\Debug\net8.0\01.WorldTour.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.sourcelink.json
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\refint\01.WorldTour.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\01.WorldTour.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.02\01.WorldTour\obj\Debug\net8.0\ref\01.WorldTour.dll

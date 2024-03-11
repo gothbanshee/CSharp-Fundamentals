@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\bin\Debug\net8.0\05.HTML.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\refint\05.HTML.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\05.HTML.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.TextProcessing\05.HTML\obj\Debug\net8.0\ref\05.HTML.dll
