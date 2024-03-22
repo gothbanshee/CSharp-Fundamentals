@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.exe
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.deps.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.sourcelink.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\refint\04.StarEnigma.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\04.StarEnigma\obj\Debug\net8.0\ref\04.StarEnigma.dll

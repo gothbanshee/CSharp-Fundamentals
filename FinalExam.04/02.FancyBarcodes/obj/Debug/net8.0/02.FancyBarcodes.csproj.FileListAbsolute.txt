@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\bin\Debug\net8.0\02.FancyBarcodes.exe
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\bin\Debug\net8.0\02.FancyBarcodes.deps.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\bin\Debug\net8.0\02.FancyBarcodes.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\bin\Debug\net8.0\02.FancyBarcodes.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\bin\Debug\net8.0\02.FancyBarcodes.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.sourcelink.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\refint\02.FancyBarcodes.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\02.FancyBarcodes.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\02.FancyBarcodes\obj\Debug\net8.0\ref\02.FancyBarcodes.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\bin\Debug\net8.0\1.WinningTicket.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\refint\1.WinningTicket.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\1.WinningTicket.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\1.WinningTicket\obj\Debug\net8.0\ref\1.WinningTicket.dll

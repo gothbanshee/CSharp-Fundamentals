@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.exe
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.deps.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\bin\Debug\net8.0\03.MatchDates.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.sourcelink.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\refint\03.MatchDates.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\03.MatchDates.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\03.MatchDates\obj\Debug\net8.0\ref\03.MatchDates.dll

@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.exe
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.deps.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.sourcelink.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\refint\05.NetherRealms.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\05.NetherRealms\obj\Debug\net8.0\ref\05.NetherRealms.dll

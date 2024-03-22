@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.exe
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.deps.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.sourcelink.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\refint\03.SoftUniBarIncome.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\ref\03.SoftUniBarIncome.dll

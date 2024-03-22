@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.exe
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.deps.json
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\bin\Debug\net8.0\02.MirrorWords.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.sourcelink.json
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\refint\02.MirrorWords.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\02.MirrorWords.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.03\02.MirrorWords\obj\Debug\net8.0\ref\02.MirrorWords.dll

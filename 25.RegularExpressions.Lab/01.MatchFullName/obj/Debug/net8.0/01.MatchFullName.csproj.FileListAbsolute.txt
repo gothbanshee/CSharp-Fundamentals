@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.exe
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.deps.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.sourcelink.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\refint\01.MatchFullName.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\01.MatchFullName\obj\Debug\net8.0\ref\01.MatchFullName.dll

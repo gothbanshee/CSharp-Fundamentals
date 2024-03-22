@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.exe
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.deps.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.sourcelink.json
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\refint\06.ExtractEmails.dll
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.pdb
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\26.RegularExpressions.Exercise\06.ExtractEmails\obj\Debug\net8.0\ref\06.ExtractEmails.dll

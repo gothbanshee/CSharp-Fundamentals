@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.exe
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.deps.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.sourcelink.json
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\refint\02.MatchPhoneNumber.dll
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.pdb
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\25.RegularExpressions.Lab\02.MatchPhoneNumber\obj\Debug\net8.0\ref\02.MatchPhoneNumber.dll

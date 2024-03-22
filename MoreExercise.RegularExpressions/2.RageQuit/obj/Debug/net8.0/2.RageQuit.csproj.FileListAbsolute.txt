@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\bin\Debug\net8.0\2.RageQuit.exe
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\bin\Debug\net8.0\2.RageQuit.deps.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\bin\Debug\net8.0\2.RageQuit.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\bin\Debug\net8.0\2.RageQuit.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\bin\Debug\net8.0\2.RageQuit.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.sourcelink.json
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\refint\2.RageQuit.dll
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.pdb
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\2.RageQuit.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\MoreExercise.RegularExpressions\2.RageQuit\obj\Debug\net8.0\ref\2.RageQuit.dll

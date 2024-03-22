@@ -1,0 +1,15 @@
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\bin\Debug\net8.0\03.HeroesOfCodeAndLogicVII.exe
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\bin\Debug\net8.0\03.HeroesOfCodeAndLogicVII.deps.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\bin\Debug\net8.0\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\bin\Debug\net8.0\03.HeroesOfCodeAndLogicVII.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\bin\Debug\net8.0\03.HeroesOfCodeAndLogicVII.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.sourcelink.json
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\refint\03.HeroesOfCodeAndLogicVII.dll
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.pdb
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+D:\Funds\CSharp-Fundamentals\FinalExam.04\03.HeroesOfCodeAndLogicVII\obj\Debug\net8.0\ref\03.HeroesOfCodeAndLogicVII.dll
